@@ -1,2 +1,3 @@
-console.log("hello William");
-console.log("demoo")
+Console.log("hello William");
+console.log("demooo")
+console.log("botenvouwer")
